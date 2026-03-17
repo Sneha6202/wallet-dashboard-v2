@@ -7,10 +7,16 @@ This version presents a different visual identity and structure while completing
 
 ## 🚀 Live Demo
 
-- **Frontend:** [Add your Vercel link here]
-- **Backend:** [Add your Render link here]
+- **Frontend:** https://wallet-dashboard-v2.vercel.app/
+- **Backend:** https://wallet-dashboard-v2-backend.onrender.com
 
 ---
+📂 GitHub Repository
+
+👉 https://github.com/Sneha6202/wallet-dashboard-v2-project
+🌐 Alternative (GitHub Pages)
+
+👉 https://sneha6202.github.io/wallet-dashboard-v2/
 
 ## ✨ Features
 
